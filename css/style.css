@@ -1,0 +1,10 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.img-fluid {
+    max-width: 80%;
+    /* Ajusta o tamanho da imagem */
+    height: auto;
+}
